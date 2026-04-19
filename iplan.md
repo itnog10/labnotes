@@ -51,5 +51,4 @@
 |hostname | ip v4 |
 | - | - |
 |srx01dieci |63.216.92.193|
-
 |pve01dieci |63.216.92.195|
